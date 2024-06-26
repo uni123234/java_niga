@@ -8,10 +8,10 @@ public class main2 {
 
         int totalPrice = cookiePrice + candyPirice;
 
-        if(cash > totalPrice){
+        if (cash > totalPrice) {
             System.out.println("You can buy cookie and candy");
 
-        }else{
+        } else {
             System.out.println("You can not buy cookie and candy");
         }
 

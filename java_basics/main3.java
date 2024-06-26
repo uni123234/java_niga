@@ -2,11 +2,11 @@ public class main3 {
     public static void main(String[] args) {
         // int age = 25;
         // boolean isActive = true;
-        
+
         // byte short int long
         byte a = 100;
         System.out.println(a);
-        short s = 1000; //100000 not
+        short s = 1000; // 100000 not
         System.out.println(s);
         int i = 100000000;
         System.out.println(i);
@@ -17,12 +17,12 @@ public class main3 {
         System.out.println(d);
         float f = 15.99f;
         System.out.println(f);
-        //boolean
+        // boolean
         boolean al = false;
         System.out.println(al);
-        //char and string
+        // char and string
         char values = '#';
-        System.out.println( values);
+        System.out.println(values);
         String name = "boba";// ''
         System.out.println(name);// ""
     }
@@ -41,21 +41,23 @@ public class main3 {
 // Приклад: int i = 1000000;
 // long
 // Розмір: 8 байтів (64 біти).
-// Діапазон значень: від -9,223,372,036,854,775,808 до 9,223,372,036,854,775,807.
-// Приклад: long value = 834342434233333321L; (Суфікс L використовується для позначення, що це тип long.)
+// Діапазон значень: від -9,223,372,036,854,775,808 до
+// 9,223,372,036,854,775,807.
+// Приклад: long value = 834342434233333321L; (Суфікс L використовується для
+// позначення, що це тип long.)
 
 // public class Main {
-//     public static void main(String[] args) {
-//         boolean isEmpty = true;
-//         System.out.println(isEmpty); // Виведе: true
+// public static void main(String[] args) {
+// boolean isEmpty = true;
+// System.out.println(isEmpty); // Виведе: true
 
-//         isEmpty = false;
-//         System.out.println(isEmpty); // Виведе: false
+// isEmpty = false;
+// System.out.println(isEmpty); // Виведе: false
 
-//         boolean isAdult = false;
-//         System.out.println(isAdult); // Виведе: false
+// boolean isAdult = false;
+// System.out.println(isAdult); // Виведе: false
 
-//         isAdult = true;
-//         System.out.println(isAdult); // Виведе: true
-//     }
+// isAdult = true;
+// System.out.println(isAdult); // Виведе: true
+// }
 // }

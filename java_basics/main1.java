@@ -8,5 +8,5 @@ public class main1 {
 
         System.out.println("Гравець номер " + 1 + ", приготуватись!");
     }
-    
+
 }
